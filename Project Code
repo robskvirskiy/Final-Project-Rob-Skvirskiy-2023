@@ -120,3 +120,9 @@ while True:
     elif ball.xcor() > 460 and ball.ycor() < paddle_b.ycor() + 50 and ball.ycor() > paddle_b.ycor() - 50:
         ball.dx *= -1
 
+MY VIDEO: 
+
+TUTORIAL VIDEO THAT WAS USED: https://www.youtube.com/watch?v=C6jJg9Zan7w
+
+ORIGINAL CODE: http://christianthompson.com/sites/default/files/Pong/pong.py
+
