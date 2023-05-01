@@ -120,7 +120,7 @@ while True:
     elif ball.xcor() > 460 and ball.ycor() < paddle_b.ycor() + 50 and ball.ycor() > paddle_b.ycor() - 50:
         ball.dx *= -1
 
-MY VIDEO: 
+MY VIDEO: https://www.youtube.com/watch?v=VlEioPcwZeg&ab_channel=RobertSkvirskiy
 
 TUTORIAL VIDEO THAT WAS USED: https://www.youtube.com/watch?v=C6jJg9Zan7w
 
